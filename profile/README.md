@@ -2,17 +2,17 @@
 
 # vital-agent-ecosystem
 
-The Vital Agent Ecosystem provides a collection of software components, knowledge models, and interfaces that together provide an A.I. Agent deployment and management platform.
+The Vital A.I. Agent Ecosystem provides a collection of software components, knowledge models, and interfaces that together provide an A.I. Agent deployment and management platform.  These components are managed in separate GitHUb Repositories.
 
-Commercial support of the Vital AI Agent Ecosystem is provided by Vital AI: [https://www.vital.ai](https://www.vital.ai)
+Commercial support of the Vital A.I. Agent Ecosystem is provided by Vital AI: [https://www.vital.ai](https://www.vital.ai)
 
 # Agent Ecosystem Architecture
 
-The following diagram shows the A.I. Ecosystem components.
+The following diagram shows the A.I. Agent Ecosystem components.
 
 <img src="assets/agent-ecosystem-arch.png" alt="Vital Agent Ecosystem Architecture">
 
-The Vital Agent Ecosystem repository provides documentation and resources for the Agent Ecosystem as a whole:
+The Ecosystem repository provides documentation and resources for the A.I. Agent Ecosystem as a whole:
 
 [https://github.com/vital-ai/vital-agent-ecosystem](https://github.com/vital-ai/vital-agent-ecosystem)
 
