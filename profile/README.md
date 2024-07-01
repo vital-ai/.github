@@ -1,4 +1,4 @@
-<img src="assets/vital-logo-black.png" alt="Vital AI Logo" width="200">
+<img src="https://raw.githubusercontent.com/vital-ai/.github/main/profile/assets/vital-logo-black.png" alt="Vital AI Logo" width="200">
 
 # Vital A.I. Agent Ecosystem
 
@@ -12,7 +12,7 @@ The following diagram shows the A.I. Agent Ecosystem components.
 
 Agents are deployed within containers according to the AgentContainer standard: [https://www.agentcontainer.com](https://www.agentcontainer.com)
 
-<img src="assets/agent-ecosystem-arch.png" alt="Vital Agent Ecosystem Architecture">
+<img src="https://raw.githubusercontent.com/vital-ai/.github/main/profile/assets/agent-ecosystem-arch.png" alt="Vital Agent Ecosystem Architecture">
 
 The Ecosystem repository provides documentation and resources for the A.I. Agent Ecosystem as a whole:
 
